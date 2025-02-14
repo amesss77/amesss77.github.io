@@ -75,7 +75,7 @@ h2 { color : white
 <body>
     <div class="heart"></div>
 
-    <div class="contenido"><h1>Te amo 💓</h1><h2>14/02/2024</h2></div>
+    <div class="contenido"><h1>Te amo 💓</h1><h2>Mi niña hermosa dary</h2></div>
 
   
       
